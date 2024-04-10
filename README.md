@@ -10,7 +10,7 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 
 <br>
 
-# The company wants to know:
+### The company wants to know:
 >• Which variables are significant in predicting the demand for shared bikes. <br>
 >• How well those variables describe the bike demands.
 
@@ -41,5 +41,5 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 ## Libraries Used
 - Pandas , Numpy , Matplotlib , Seaborn, Statsmodels, Sklearn
 
-## Contributors
+## Contributor:
 * [Karthikeyan M](https://github.com/itskarthikn)
